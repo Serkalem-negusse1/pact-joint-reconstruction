@@ -14,6 +14,3 @@ Implementation of joint reconstruction (JR) method for estimating initial pressu
 ```bash
 git clone https://github.com/Serkalem-negusse1/pact-joint-reconstruction.git
 cd pact-joint-reconstruction
-#conda env create -f environment.yml
-#conda activate pact-jr
-#pip install -e .
